@@ -1,5 +1,7 @@
 # Taller 03
 
+Integrantes: Esther Méndez y Rafaella Palacios
+
 * Para los siguientes ejercicios generar una solución en lenguaje Java. 
 
 * Consideraciones:
